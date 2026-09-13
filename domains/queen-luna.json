@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "darksasa1-eng",
+    "email": "support.sasadev@gmail.com"
+  },
+  "proxied": true,
+  "records": {
+    "CNAME": "morning-sagebrush-jrxi9jpe43gfllmqej9b7dlf.herokudns.com"
+  }
+}
